@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'javakomiyasaweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1649216A42B84D538D5F210AE85D9198 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C1AD96B20EC644968D06706919FCB688 }}
           package: '*.war'
